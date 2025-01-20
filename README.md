@@ -15,8 +15,8 @@ graduate from the Faculty of Computers and Information , I've been honing my ski
 ## 🛠️ **Technologies I work with:**
 
 - Frontend: HTML5, CSS3, JavaScript, Bootstrap
-- Backend: C#, ASP.NET Core, PHP
-- Database: SQL Server, MySQL
+- Backend: C#, ASP.NET Core, ASP.NET MVC, LINQ, Entity Framwork
+- Database: SQL Server, MySQL 
 - DevOps: Git, Docker
 
 ⚽ ** Fun Fact ** When not coding, you can find me playing football, exploring new technologies, or watching interesting documentaries.
